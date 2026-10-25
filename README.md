@@ -1,6 +1,6 @@
 # Hi, I'm Jean Ly Kon 👋
 
-**Data Analytics Graduate (H.Dip, First Class Honours) | 10+ years in healthcare | SQL · Python · Power BI · Tableau**
+**Junior Data Analyst | H.Dip Data Analytics (First Class Honours) | 10+ years in healthcare | SQL · Python · Power BI · Tableau**
 
 I'm a registered nurse turned data analyst, based in Dublin 🇮🇪. After more than ten years in hospital nursing in Ireland, Malaysia and Singapore, I completed a Higher Diploma in Science in Data Analytics at Dublin Business School with First Class Honours. I like turning messy operational data into clear answers that front-line teams can act on.
 
@@ -23,4 +23,4 @@ I'm a registered nurse turned data analyst, based in Dublin 🇮🇪. After more
 ### 📫 Connect
 [LinkedIn: linkedin.com/in/jeankly](https://www.linkedin.com/in/jeankly)
 
-Open to junior and graduate data analyst roles in Ireland. Stamp 4, no sponsorship needed.
+Open to entry-level and junior data analyst roles in Ireland. Stamp 4, no sponsorship needed.
