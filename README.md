@@ -13,7 +13,6 @@ I'm a registered nurse turned data analyst, based in Dublin 🇮🇪. After more
 ### 📂 Featured projects
 | Project | What it shows |
 |---|---|
-| [PACU length-of-stay analysis](https://github.com/jennykonjl/pacu-length-of-stay-analysis) | Capstone: regression on 2,159 day-surgery records (code and aggregate results only, data confidential) |
 | [NTPF paediatric waiting lists (Power BI)](https://github.com/jennykonjl/ntpf-paediatric-waiting-lists-powerbi) | Power Query, DAX and a dashboard on Irish open health data |
 | [Pre-assessment clinic SQL database](https://github.com/jennykonjl/preassessment-clinic-sql-database) | ERD, 3NF normalisation, DDL/DML and a test plan in SQL Server |
 | [Telco churn prediction](https://github.com/jennykonjl/telco-churn-prediction) | SMOTE plus logistic regression tuned for recall: 91% of churners caught |
